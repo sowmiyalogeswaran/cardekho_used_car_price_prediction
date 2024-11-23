@@ -14,7 +14,7 @@ An interactive Streamlit application to predict used car prices based on user-in
 
 ### Steps to Run the Project
 - Clone the repository:
-   git clone https://github.com/your-repo/car-dheko-price-prediction.git
+   git clone https://github.com/sowmiyalogeswaran/cardekho_used_car_price_prediction.git
 - Run the Streamlit application:
     streamlit run app.py
 
